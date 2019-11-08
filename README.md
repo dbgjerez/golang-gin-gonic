@@ -35,9 +35,9 @@
     ```
 * Copy an example template
     ```bash
-    curl https://raw.githubusercontent.com/gin-gonic/examples/master/basic/main.go > main.go
+    	curl https://raw.githubusercontent.com/gin-gonic/examples/master/basic/main.go > main.go
     ```
 * Run the project
     ```bash
-    go run main.go
+    	go run main.go
     ```
